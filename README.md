@@ -1,6 +1,6 @@
 # Hello!
 
-I am **classical musician** and **teacher** now studying part-time for a new degree in **Mathematics**. I was very excited by the mandatory programming classes, thanks to a great professor, and I'm considering a minor in **CS** due to that.
+I am a **classical musician** and **teacher** now studying part-time for a new degree in **Mathematics**. I was very excited by the mandatory programming classes, thanks to a great professor, and I'm considering a minor in **CS** due to that.
 
 ---
 
