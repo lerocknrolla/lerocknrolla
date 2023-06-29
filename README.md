@@ -1,6 +1,6 @@
 # Hello!
 
-I am a **classical musician** and **teacher** now studying part-time for a new degree in **Mathematics**. I was very excited by the mandatory programming classes, thanks to the great professor [João Neto](https://github.com/jpneto), so I will be pursuing a minor in **Computer Science**.
+I am a **classical musician** and **teacher** now studying part-time for a new degree in **Mathematics**. I had an incredible experience with the programming courses, thanks to the great professor [João Neto](https://github.com/jpneto), so I will be pursuing a minor in **Computer Science**.
 
 ---
 
