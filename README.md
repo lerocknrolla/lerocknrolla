@@ -10,4 +10,4 @@ I am teaching myself **C** and getting some practice with it by solving [Project
 
 ---
 
-Since classical music and schools both have an off-season in the summer, I'm using that opportunity to try to get some real-life programming experience under my belt, so I'd love to work on an **intership** or **junior programmer** role from **July** to **September**!
+Since classical music and schools both have an off-season in the summer, I'm using that opportunity to try to get some real-life programming experience under my belt, so I'd love to work on an **intership** or **full-time junior programmer** role from **July** to **mid-September**, and continue on a **part-time** basis after that!
