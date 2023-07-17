@@ -4,7 +4,7 @@ I am a **classical musician** and **teacher** now studying part-time for a new d
 
 ---
 
-In my introductory programming courses, we learned **Python** and its major libraries, classes and OOP, data structures (stacks, queues, priority queues, BSTs, *etc*), and algorithms (including sorting and searching). I've been expanding on some object classes and small projects we did in class, so I decided to upload those here.
+My programming courses covered **Python** and its major libraries, OOP, data structures and algorithms, data visualization, complexity analysis, and other topics. I've been expanding on some objects and small projects we did in class, so I decided to upload those here, as well as some other personal projects.
 
 I am teaching myself **C** and getting some practice with it by solving [Project Euler](https://projecteuler.net/) problems, and have learned **HTML** and **CSS** as well. I'm also proficient in **Csound** and **Pure Data**, along with other music-specific programming languages and technologies.
 
